@@ -1,0 +1,16 @@
+{
+  "name": "Cancertrack-Api",
+  "version": "1.0.0",
+  "description": "Backend part for my NodeJS test app",
+  "main": "server.js",
+  "repository": "http://github.com/ratouney/nope",
+  "author": "The Great Cancer Himself",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.12",
+    "nodemon": "^1.17.3"
+  }
+}
